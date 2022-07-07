@@ -1,0 +1,28 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "this is a type script",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maqsoodahmad-1/creative-code.git"
+  },
+  "keywords": [
+    "hello",
+    "welcome"
+  ],
+  "author": "maqsood",
+  "license": "AAL",
+  "bugs": {
+    "url": "https://github.com/maqsoodahmad-1/creative-code/issues"
+  },
+  "homepage": "https://github.com/maqsoodahmad-1/creative-code#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.25",
+    "tslint": "^6.1.3",
+    "typescript": "^4.6.3"
+  }
+}
